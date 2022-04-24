@@ -1,0 +1,791 @@
+{
+  "service": [
+    {
+      "ident": "1",
+      "stationData": [
+        {
+          "stationName": "Van Cortlandt Park - 242 St",
+          "stationCodeN": "101N",
+          "stationCodeS": "101S"
+        },
+        {
+          "stationName": "238 St",
+          "stationCodeN": "103N",
+          "stationCodeS": "103S"
+        },
+        {
+          "stationName": "231 St",
+          "stationCodeN": "104N",
+          "stationCodeS": "104S"
+        },
+        {
+          "stationName": "Marble Hill - 225 St",
+          "stationCodeN": "106N",
+          "stationCodeS": "106S"
+        },
+        {
+          "stationName": "215 St",
+          "stationCodeN": "107N",
+          "stationCodeS": "107S"
+        },
+        {
+          "stationName": "207 St",
+          "stationCodeN": "108N",
+          "stationCodeS": "108S"
+        },
+        {
+          "stationName": "Dyckman St",
+          "stationCodeN": "109N",
+          "stationCodeS": "109S"
+        },
+        {
+          "stationName": "191 St",
+          "stationCodeN": "110N",
+          "stationCodeS": "110S"
+        },
+        {
+          "stationName": "181 St",
+          "stationCodeN": "111N",
+          "stationCodeS": "111S"
+        },
+        {
+          "stationName": "168 St - Washington Hts",
+          "stationCodeN": "112N",
+          "stationCodeS": "112S"
+        },
+        {
+          "stationName": "157 St",
+          "stationCodeN": "113N",
+          "stationCodeS": "113S"
+        },
+        {
+          "stationName": "145 St",
+          "stationCodeN": "114N",
+          "stationCodeS": "114S"
+        },
+        {
+          "stationName": "137 St - City College",
+          "stationCodeN": "115N",
+          "stationCodeS": "115S"
+        },
+        {
+          "stationName": "125 St",
+          "stationCodeN": "116N",
+          "stationCodeS": "116S"
+        },
+        {
+          "stationName": "116 St - Columbia University",
+          "stationCodeN": "117N",
+          "stationCodeS": "117S"
+        },
+        {
+          "stationName": "Cathedral Pkwy - 110 St",
+          "stationCodeN": "118N",
+          "stationCodeS": "118S"
+        },
+        {
+          "stationName": "103 St",
+          "stationCodeN": "119N",
+          "stationCodeS": "119S"
+        },
+        {
+          "stationName": "96 St",
+          "stationCodeN": "120N",
+          "stationCodeS": "120S"
+        },
+        {
+          "stationName": "86 St",
+          "stationCodeN": "121N",
+          "stationCodeS": "121S"
+        },
+        {
+          "stationName": "79 St",
+          "stationCodeN": "122N",
+          "stationCodeS": "122S"
+        },
+        {
+          "stationName": "72 St",
+          "stationCodeN": "123N",
+          "stationCodeS": "123S"
+        },
+        {
+          "stationName": "66 St - Lincoln Center",
+          "stationCodeN": "124N",
+          "stationCodeS": "124S"
+        },
+        {
+          "stationName": "59 St - Columbus Circle",
+          "stationCodeN": "125N",
+          "stationCodeS": "125S"
+        },
+        {
+          "stationName": "50 St",
+          "stationCodeN": "126N",
+          "stationCodeS": "126S"
+        },
+        {
+          "stationName": "Times Sq - 42 St",
+          "stationCodeN": "127N",
+          "stationCodeS": "127S"
+        },
+        {
+          "stationName": "34 St - Penn Station",
+          "stationCodeN": "128N",
+          "stationCodeS": "128S"
+        },
+        {
+          "stationName": "28 St",
+          "stationCodeN": "129N",
+          "stationCodeS": "129S"
+        },
+        {
+          "stationName": "23 St",
+          "stationCodeN": "130N",
+          "stationCodeS": "130S"
+        },
+        {
+          "stationName": "18 St",
+          "stationCodeN": "131N",
+          "stationCodeS": "131S"
+        },
+        {
+          "stationName": "14 St",
+          "stationCodeN": "132N",
+          "stationCodeS": "132S"
+        },
+        {
+          "stationName": "Christopher St - Sheridan Sq",
+          "stationCodeN": "133N",
+          "stationCodeS": "133S"
+        },
+        {
+          "stationName": "Houston St",
+          "stationCodeN": "134N",
+          "stationCodeS": "134S"
+        },
+        {
+          "stationName": "Canal St",
+          "stationCodeN": "135N",
+          "stationCodeS": "135S"
+        },
+        {
+          "stationName": "Franklin St",
+          "stationCodeN": "136N",
+          "stationCodeS": "136S"
+        },
+        {
+          "stationName": "Chambers St",
+          "stationCodeN": "137N",
+          "stationCodeS": "137S"
+        },
+        {
+          "stationName": "Cortlandt St",
+          "stationCodeN": "138N",
+          "stationCodeS": "138S"
+        },
+        {
+          "stationName": "Rector St",
+          "stationCodeN": "139N",
+          "stationCodeS": "139S"
+        },
+        {
+          "stationName": "South Ferry",
+          "stationCodeN": "140N",
+          "stationCodeS": "140S"
+        }
+      ]
+    },
+    {
+      "ident": "2",
+      "stationData": [
+        {
+          "stationName": "Wakefield - 241 St",
+          "stationCodeN": "201N",
+          "stationCodeS": "201S"
+        },
+        {
+          "stationName": "Nereid Av",
+          "stationCodeN": "204N",
+          "stationCodeS": "204S"
+        },
+        {
+          "stationName": "233 St",
+          "stationCodeN": "205N",
+          "stationCodeS": "205S"
+        },
+        {
+          "stationName": "225 St",
+          "stationCodeN": "206N",
+          "stationCodeS": "206S"
+        },
+        {
+          "stationName": "219 St",
+          "stationCodeN": "207N",
+          "stationCodeS": "207S"
+        },
+        {
+          "stationName": "Gun Hill Rd",
+          "stationCodeN": "208N",
+          "stationCodeS": "208S"
+        },
+        {
+          "stationName": "Burke Av",
+          "stationCodeN": "209N",
+          "stationCodeS": "209S"
+        },
+        {
+          "stationName": "Allerton Av",
+          "stationCodeN": "210N",
+          "stationCodeS": "210S"
+        },
+        {
+          "stationName": "Pelham Pkwy",
+          "stationCodeN": "211N",
+          "stationCodeS": "211S"
+        },
+        {
+          "stationName": "Bronx Park East",
+          "stationCodeN": "212N",
+          "stationCodeS": "212S"
+        },
+        {
+          "stationName": "E 180 St",
+          "stationCodeN": "213N",
+          "stationCodeS": "213S"
+        },
+        {
+          "stationName": "West Farms Sq - E Tremont Av",
+          "stationCodeN": "214N",
+          "stationCodeS": "214S"
+        },
+        {
+          "stationName": "174 St",
+          "stationCodeN": "215N",
+          "stationCodeS": "215S"
+        },
+        {
+          "stationName": "Freeman St",
+          "stationCodeN": "216N",
+          "stationCodeS": "216S"
+        },
+        {
+          "stationName": "Simpson St",
+          "stationCodeN": "217N",
+          "stationCodeS": "217S"
+        },
+        {
+          "stationName": "Intervale Av",
+          "stationCodeN": "218N",
+          "stationCodeS": "218S"
+        },
+        {
+          "stationName": "Prospect Av",
+          "stationCodeN": "219N",
+          "stationCodeS": "219S"
+        },
+        {
+          "stationName": "Jackson Av",
+          "stationCodeN": "220N",
+          "stationCodeS": "220S"
+        },
+        {
+          "stationName": "3 Av - 149 St",
+          "stationCodeN": "221N",
+          "stationCodeS": "221S"
+        },
+        {
+          "stationName": "149 St - Grand Concourse",
+          "stationCodeN": "222N",
+          "stationCodeS": "222S"
+        },
+        {
+          "stationName": "135 St",
+          "stationCodeN": "224N",
+          "stationCodeS": "224S"
+        },
+        {
+          "stationName": "125 St",
+          "stationCodeN": "225N",
+          "stationCodeS": "225S"
+        },
+        {
+          "stationName": "116 St",
+          "stationCodeN": "226N",
+          "stationCodeS": "226S"
+        },
+        {
+          "stationName": "Central Park North - 110 St",
+          "stationCodeN": "227N",
+          "stationCodeS": "227S"
+        },
+        {
+          "stationName": "Park Pl",
+          "stationCodeN": "228N",
+          "stationCodeS": "228S"
+        },
+        {
+          "stationName": "Fulton St",
+          "stationCodeN": "229N",
+          "stationCodeS": "229S"
+        },
+        {
+          "stationName": "Wall St",
+          "stationCodeN": "230N",
+          "stationCodeS": "230S"
+        },
+        {
+          "stationName": "Clark St",
+          "stationCodeN": "231N",
+          "stationCodeS": "231S"
+        },
+        {
+          "stationName": "Borough Hall",
+          "stationCodeN": "232N",
+          "stationCodeS": "232S"
+        },
+        {
+          "stationName": "Hoyt St",
+          "stationCodeN": "233N",
+          "stationCodeS": "233S"
+        },
+        {
+          "stationName": "Nevins St",
+          "stationCodeN": "234N",
+          "stationCodeS": "234S"
+        },
+        {
+          "stationName": "Atlantic Av - Barclays Ctr",
+          "stationCodeN": "235N",
+          "stationCodeS": "235S"
+        },
+        {
+          "stationName": "Bergen St",
+          "stationCodeN": "236N",
+          "stationCodeS": "236S"
+        },
+        {
+          "stationName": "Grand Army Plaza",
+          "stationCodeN": "237N",
+          "stationCodeS": "237S"
+        },
+        {
+          "stationName": "Eastern Pkwy - Brooklyn Museum",
+          "stationCodeN": "238N",
+          "stationCodeS": "238S"
+        },
+        {
+          "stationName": "Franklin Av",
+          "stationCodeN": "239N",
+          "stationCodeS": "239S"
+        },
+        {
+          "stationName": "President St",
+          "stationCodeN": "241N",
+          "stationCodeS": "241S"
+        },
+        {
+          "stationName": "Sterling St",
+          "stationCodeN": "242N",
+          "stationCodeS": "242S"
+        },
+        {
+          "stationName": "Winthrop St",
+          "stationCodeN": "243N",
+          "stationCodeS": "243S"
+        },
+        {
+          "stationName": "Church Av",
+          "stationCodeN": "244N",
+          "stationCodeS": "244S"
+        },
+        {
+          "stationName": "Beverly Rd",
+          "stationCodeN": "245N",
+          "stationCodeS": "245S"
+        },
+        {
+          "stationName": "Newkirk Av",
+          "stationCodeN": "246N",
+          "stationCodeS": "246S"
+        },
+        {
+          "stationName": "Flatbush Av - Brooklyn College",
+          "stationCodeN": "247N",
+          "stationCodeS": "247S"
+        }
+      ]
+    },
+    {
+      "ident": "3",
+      "stationData": []
+    },
+    {
+      "ident": "4",
+      "stationData": []
+    },
+    {
+      "ident": "5",
+      "stationData": []
+    },
+    {
+      "ident": "6",
+      "stationData": []
+    },
+    {
+      "ident": "7",
+      "stationData": []
+    },
+    {
+      "ident": "A",
+      "stationData": []
+    },
+    {
+      "ident": "B",
+      "stationData": []
+    },
+    {
+      "ident": "C",
+      "stationData": []
+    },
+    {
+      "ident": "D",
+      "stationData": []
+    },
+    {
+      "ident": "E",
+      "stationData": []
+    },
+    {
+      "ident": "F",
+      "stationData": []
+    },
+    {
+      "ident": "G",
+      "stationData": [
+        {
+          "stationName": "Court Sq",
+          "stationCodeN": "G22N",
+          "stationCodeS": "G22S"
+        },
+        {
+          "stationName": "21 St",
+          "stationCodeN": "G24N",
+          "stationCodeS": "G24S"
+        },
+        {
+          "stationName": "Greenpoint Av",
+          "stationCodeN": "G26N",
+          "stationCodeS": "G26S"
+        },
+        {
+          "stationName": "Nassau Av",
+          "stationCodeN": "G28N",
+          "stationCodeS": "G28S"
+        },
+        {
+          "stationName": "Metropolitan Av",
+          "stationCodeN": "G29N",
+          "stationCodeS": "G29S"
+        },
+        {
+          "stationName": "Broadway",
+          "stationCodeN": "G30N",
+          "stationCodeS": "G30S"
+        },
+        {
+          "stationName": "Flushing Av",
+          "stationCodeN": "G31N",
+          "stationCodeS": "G31S"
+        },
+        {
+          "stationName": "Myrtle - Willoughby Avs",
+          "stationCodeN": "G32N",
+          "stationCodeS": "G32S"
+        },
+        {
+          "stationName": "Bedford - Nostrand Avs",
+          "stationCodeN": "G33N",
+          "stationCodeS": "G33S"
+        },
+        {
+          "stationName": "Classon Av",
+          "stationCodeN": "G34N",
+          "stationCodeS": "G34S"
+        },
+        {
+          "stationName": "Clinton - Washington Avs",
+          "stationCodeN": "G35N",
+          "stationCodeS": "G35S"
+        },
+        {
+          "stationName": "Fulton St",
+          "stationCodeN": "G36N",
+          "stationCodeS": "G36S"
+        },
+        {
+          "stationName": "Hoyt - Schermerhorn Sts",
+          "stationCodeN": "A42N",
+          "stationCodeS": "A42S"
+        },
+        {
+          "stationName": "Bergen St",
+          "stationCodeN": "F20N",
+          "stationCodeS": "F20S"
+        },
+        {
+          "stationName": "Carroll St",
+          "stationCodeN": "F21N",
+          "stationCodeS": "F21S"
+        },
+        {
+          "stationName": "Smith - 9 Sts",
+          "stationCodeN": "F22N",
+          "stationCodeS": "F22S"
+        },
+        {
+          "stationName": "4 Av",
+          "stationCodeN": "F23N",
+          "stationCodeS": "F23S"
+        },
+        {
+          "stationName": "7 Av",
+          "stationCodeN": "F24N",
+          "stationCodeS": "F24S"
+        },
+        {
+          "stationName": "15 St - Prospect Park",
+          "stationCodeN": "F25N",
+          "stationCodeS": "F25S"
+        },
+        {
+          "stationName": "Fort Hamilton Pkwy",
+          "stationCodeN": "F26N",
+          "stationCodeS": "F26S"
+        },
+        {
+          "stationName": "Church Av",
+          "stationCodeN": "F27N",
+          "stationCodeS": "F27S"
+        }
+      ]
+    },
+    {
+      "ident": "J",
+      "stationData": []
+    },
+    {
+      "ident": "L",
+      "stationData": [
+        {
+          "stationName": "8 Av",
+          "stationCodeN": "L01N",
+          "stationCodeS": "L01S"
+        },
+        {
+          "stationName": "6 Av",
+          "stationCodeN": "L02N",
+          "stationCodeS": "L02S"
+        },
+        {
+          "stationName": "Union Sq - 14 St",
+          "stationCodeN": "L03N",
+          "stationCodeS": "L03S"
+        },
+        {
+          "stationName": "3 Av",
+          "stationCodeN": "L05N",
+          "stationCodeS": "L05S"
+        },
+        {
+          "stationName": "1 Av",
+          "stationCodeN": "L06N",
+          "stationCodeS": "L06S"
+        },
+        {
+          "stationName": "Bedford Av",
+          "stationCodeN": "L08N",
+          "stationCodeS": "L08S"
+        },
+        {
+          "stationName": "Lorimer St",
+          "stationCodeN": "L10N",
+          "stationCodeS": "L10S"
+        },
+        {
+          "stationName": "Graham Av",
+          "stationCodeN": "L11N",
+          "stationCodeS": "L11S"
+        },
+        {
+          "stationName": "Grand St",
+          "stationCodeN": "L12N",
+          "stationCodeS": "L12S"
+        },
+        {
+          "stationName": "Montrose Av",
+          "stationCodeN": "L13N",
+          "stationCodeS": "L13S"
+        },
+        {
+          "stationName": "Morgan Av",
+          "stationCodeN": "L14N",
+          "stationCodeS": "L14S"
+        },
+        {
+          "stationName": "Jefferson St",
+          "stationCodeN": "L15N",
+          "stationCodeS": "L15S"
+        },
+        {
+          "stationName": "DeKalb Av",
+          "stationCodeN": "L16N",
+          "stationCodeS": "L16S"
+        },
+        {
+          "stationName": "Myrtle - Wyckoff Avs",
+          "stationCodeN": "L17N",
+          "stationCodeS": "L17S"
+        },
+        {
+          "stationName": "Halsey St",
+          "stationCodeN": "L19N",
+          "stationCodeS": "L19S"
+        },
+        {
+          "stationName": "Wilson Av",
+          "stationCodeN": "L20N",
+          "stationCodeS": "L20S"
+        },
+        {
+          "stationName": "Bushwick Av - Aberdeen St",
+          "stationCodeN": "L21N",
+          "stationCodeS": "L21S"
+        },
+        {
+          "stationName": "Broadway Jct",
+          "stationCodeN": "L22N",
+          "stationCodeS": "L22S"
+        },
+        {
+          "stationName": "Atlantic Av",
+          "stationCodeN": "L24N",
+          "stationCodeS": "L24S"
+        },
+        {
+          "stationName": "Sutter Av",
+          "stationCodeN": "L25N",
+          "stationCodeS": "L25S"
+        },
+        {
+          "stationName": "Livonia Av",
+          "stationCodeN": "L26N",
+          "stationCodeS": "L26S"
+        },
+        {
+          "stationName": "New Lots Av",
+          "stationCodeN": "L27N",
+          "stationCodeS": "L27S"
+        },
+        {
+          "stationName": "E 105 St",
+          "stationCodeN": "L28N",
+          "stationCodeS": "L28S"
+        },
+        {
+          "stationName": "Canarsie - Rockaway Pkwy",
+          "stationCodeN": "L29N",
+          "stationCodeS": "L29S"
+        }
+      ]
+    },
+    {
+      "ident": "M",
+      "stationData": []
+    },
+    {
+      "ident": "N",
+      "stationData": []
+    },
+    {
+      "ident": "Q",
+      "stationData": []
+    },
+    {
+      "ident": "R",
+      "stationData": []
+    },
+    {
+      "ident": "S42",
+      "stationData": [
+        {
+          "stationName": "Grand Central - 42 St",
+          "stationCodeN": "901N",
+          "stationCodeS": "901S"
+        },
+        {
+          "stationName": "Times Sq - 42 St",
+          "stationCodeN": "902N",
+          "stationCodeS": "902S"
+        }
+      ]
+    },
+    {
+      "ident": "SF",
+      "stationData": [
+        {
+          "stationName": "Franklin Av",
+          "stationCodeN": "S01N",
+          "stationCodeS": "S01S"
+        },
+        {
+          "stationName": "Park Pl",
+          "stationCodeN": "S03N",
+          "stationCodeS": "S03S"
+        },
+        {
+          "stationName": "Botanic Garden",
+          "stationCodeN": "S04N",
+          "stationCodeS": "S04S"
+        }
+      ]
+    },
+    {
+      "ident": "SR",
+      "stationData": [
+        {
+          "stationName": "Broad Channel",
+          "stationCodeN": "H04N",
+          "stationCodeS": "H04S"
+        },
+        {
+          "stationName": "Beach 90 St",
+          "stationCodeN": "H12N",
+          "stationCodeS": "H12S"
+        },
+        {
+          "stationName": "Beach 98 St",
+          "stationCodeN": "H13N",
+          "stationCodeS": "H13S"
+        },
+        {
+          "stationName": "Beach 105 St",
+          "stationCodeN": "H14N",
+          "stationCodeS": "H14S"
+        },
+        {
+          "stationName": "Rockaway Park - Beach 116 St",
+          "stationCodeN": "H15N",
+          "stationCodeS": "H15S"
+        }
+      ]
+    },
+    {
+      "ident": "W",
+      "stationData": []
+    },
+    {
+      "ident": "Z",
+      "stationData": []
+    }
+  ]
+}
