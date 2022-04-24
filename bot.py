@@ -59,7 +59,7 @@ async def time(ctx, *args):
   next_arrivals_S = []
   terminal_S = ""
   
-  user_line = args[0] # Type check between number and letter lines
+  user_line = args[0] # TODO: Type check between number and letter lines
   user_station = ' '.join(args[1:])
 
   # i think nested for loops are a big no no,
