@@ -319,6 +319,36 @@
           "stationCodeS": "227S"
         },
         {
+          "stationName": "96 St",
+          "stationCodeN": "120N",
+          "stationCodeS": "120S"
+        },
+        {
+          "stationName": "72 St",
+          "stationCodeN": "123N",
+          "stationCodeS": "123S"
+        },
+        {
+          "stationName": "Times Sq - 42 St",
+          "stationCodeN": "127N",
+          "stationCodeS": "127S"
+        },
+        {
+          "stationName": "34 St - Penn Station",
+          "stationCodeN": "128N",
+          "stationCodeS": "128S"
+        },
+        {
+          "stationName": "14 St",
+          "stationCodeN": "132N",
+          "stationCodeS": "132S"
+        },
+        {
+          "stationName": "Chambers St",
+          "stationCodeN": "137N",
+          "stationCodeS": "137S"
+        },
+        {
           "stationName": "Park Pl",
           "stationCodeN": "228N",
           "stationCodeS": "228S"
@@ -417,7 +447,183 @@
     },
     {
       "ident": "3",
-      "stationData": []
+      "stationData": [
+        {
+          "stationName": "Harlem - 148 St",
+          "stationCodeN": "301N",
+          "stationCodeS": "301S"
+        },
+        {
+          "stationName": "145 St",
+          "stationCodeN": "302N",
+          "stationCodeS": "302S"
+        },
+        {
+          "stationName": "135 St",
+          "stationCodeN": "224N",
+          "stationCodeS": "224S"
+        },
+        {
+          "stationName": "125 St",
+          "stationCodeN": "225N",
+          "stationCodeS": "225S"
+        },
+        {
+          "stationName": "116 St",
+          "stationCodeN": "226N",
+          "stationCodeS": "226S"
+        },
+        {
+          "stationName": "Central Park North - 110 St",
+          "stationCodeN": "227N",
+          "stationCodeS": "227S"
+        },
+        {
+          "stationName": "96 St",
+          "stationCodeN": "120N",
+          "stationCodeS": "120S"
+        },
+        {
+          "stationName": "86 St",
+          "stationCodeN": "121N",
+          "stationCodeS": "121S"
+        },
+        {
+          "stationName": "79 St",
+          "stationCodeN": "122N",
+          "stationCodeS": "122S"
+        },
+        {
+          "stationName": "72 St",
+          "stationCodeN": "123N",
+          "stationCodeS": "123S"
+        },
+        {
+          "stationName": "Times Sq - 42 St",
+          "stationCodeN": "127N",
+          "stationCodeS": "127S"
+        },
+        {
+          "stationName": "34 St - Penn Station",
+          "stationCodeN": "128N",
+          "stationCodeS": "128S"
+        },
+        {
+          "stationName": "Chambers St",
+          "stationCodeN": "137N",
+          "stationCodeS": "137S"
+        },
+        {
+          "stationName": "Park Pl",
+          "stationCodeN": "228N",
+          "stationCodeS": "228S"
+        },
+        {
+          "stationName": "Fulton St",
+          "stationCodeN": "229N",
+          "stationCodeS": "229S"
+        },
+        {
+          "stationName": "Wall St",
+          "stationCodeN": "230N",
+          "stationCodeS": "230S"
+        },
+        {
+          "stationName": "Clark St",
+          "stationCodeN": "231N",
+          "stationCodeS": "231S"
+        },
+        {
+          "stationName": "Borough Hall",
+          "stationCodeN": "232N",
+          "stationCodeS": "232S"
+        },
+        {
+          "stationName": "Hoyt St",
+          "stationCodeN": "233N",
+          "stationCodeS": "233S"
+        },
+        {
+          "stationName": "Nevins St",
+          "stationCodeN": "234N",
+          "stationCodeS": "234S"
+        },
+        {
+          "stationName": "Atlantic Av - Barclays Ctr",
+          "stationCodeN": "235N",
+          "stationCodeS": "235S"
+        },
+        {
+          "stationName": "Bergen St",
+          "stationCodeN": "236N",
+          "stationCodeS": "236S"
+        },
+        {
+          "stationName": "Grand Army Plaza",
+          "stationCodeN": "237N",
+          "stationCodeS": "237S"
+        },
+        {
+          "stationName": "Eastern Pkwy - Brooklyn Museum",
+          "stationCodeN": "238N",
+          "stationCodeS": "238S"
+        },
+        {
+          "stationName": "Franklin Av",
+          "stationCodeN": "239N",
+          "stationCodeS": "239S"
+        },
+        {
+          "stationName": "Nostrand Av",
+          "stationCodeN": "248N",
+          "stationCodeS": "248S"
+        },
+        {
+          "stationName": "Kingston Av",
+          "stationCodeN": "249N",
+          "stationCodeS": "249S"
+        },
+        {
+          "stationName": "Crown Hts - Utica Av",
+          "stationCodeN": "250N",
+          "stationCodeS": "250S"
+        },
+        {
+          "stationName": "Sutter Av - Rutland Rd",
+          "stationCodeN": "251N",
+          "stationCodeS": "251S"
+        },
+        {
+          "stationName": "Saratoga Av",
+          "stationCodeN": "252N",
+          "stationCodeS": "252S"
+        },
+        {
+          "stationName": "Rockaway Av",
+          "stationCodeN": "253N",
+          "stationCodeS": "253S"
+        },
+        {
+          "stationName": "Junius St",
+          "stationCodeN": "254N",
+          "stationCodeS": "254S"
+        },
+        {
+          "stationName": "Pennsylvania Av",
+          "stationCodeN": "255N",
+          "stationCodeS": "255S"
+        },
+        {
+          "stationName": "Van Siclen Av",
+          "stationCodeN": "256N",
+          "stationCodeS": "256S"
+        },
+        {
+          "stationName": "New Lots Av",
+          "stationCodeN": "257N",
+          "stationCodeS": "257S"
+        }
+      ]
     },
     {
       "ident": "4",
