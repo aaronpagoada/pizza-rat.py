@@ -94,14 +94,19 @@ async def time(ctx, *args):
           if stop.stop_id == station_code_N: # which is why i have to loop through the stops in each trip using two loops instead of looking at all stop codes in one loop
             if len(next_arrivals_N) < 3:
               next_arrivals_N.append(
-                strftime("%I:%M:%S %p", localtime(stop.arrival.time))
+                localtime(stop.arrival.time)
               )
           elif stop.stop_id == station_code_S:
             if len(next_arrivals_S) < 3:
               next_arrivals_S.append(
-                strftime("%I:%M:%S %p", localtime(stop.arrival.time))
+                localtime(stop.arrival.time)
               )
         if len(next_arrivals_N) == 3 and len(next_arrivals_S) == 3:
+          next_arrivals_N.sort()
+          next_arrivals_S.sort()
+          for i in range(0, len(next_arrivals_N)):
+            next_arrivals_N[i] = strftime("%I:%M:%S %p", next_arrivals_N[i])
+            next_arrivals_S[i] = strftime("%I:%M:%S %p", next_arrivals_S[i])
           break
 
   timeEmbed = discord.Embed(title = f'{station["stationName"]} ({user_line}) Arrival Times')
