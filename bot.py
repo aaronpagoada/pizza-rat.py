@@ -12,7 +12,10 @@ load_dotenv()
 TOKEN = os.getenv('DISCORD_TOKEN')
 KEY = os.getenv('MTA_API_KEY')
 
-bot = commands.Bot(command_prefix='t/')
+intents = discord.Intents.default()
+intents.message_content = True
+
+bot = commands.Bot(intents=intents, command_prefix='t/')
 
 @bot.event
 async def on_ready():
@@ -26,7 +29,7 @@ async def on_ready():
   brief = "Returns all the stations in a given line"
 )
 async def line(ctx, args):
-  f = open('data\station_service_data.json')
+  f = open('data/station_service_data.json')
   services = json.load(f)
 
   stations = []
@@ -116,9 +119,7 @@ async def time(ctx, *args):
   timeEmbed.add_field(name=f'To {terminal_S}', value=f'[1] {next_arrivals_S[0]}', inline=True)
   timeEmbed.add_field(name='\u200b', value=f'[2] {next_arrivals_S[1]}', inline=True)
   timeEmbed.add_field(name='\u200b', value=f'[3] {next_arrivals_S[2]}', inline=True)
-  timeEmbed.timestamp = datetime.utcnow()
-  
-  # TODO: Order the times
+  timeEmbed.timestamp = datetime.now()
 
   await ctx.channel.send(embed=timeEmbed)
 
