@@ -630,15 +630,18 @@
     },
     {
       "ident": "4",
-      "stationData": []
+      "stationData": [],
+      "color": "00933C"
     },
     {
       "ident": "5",
-      "stationData": []
+      "stationData": [],
+      "color": "00933C"
     },
     {
       "ident": "6",
-      "stationData": []
+      "stationData": [],
+      "color": "00933C"
     },
     {
       "ident": "7",
@@ -758,27 +761,33 @@
     },
     {
       "ident": "A",
-      "stationData": []
+      "stationData": [],
+      "color": "0039A6"
     },
     {
       "ident": "B",
-      "stationData": []
+      "stationData": [],
+      "color": "FF6319"
     },
     {
       "ident": "C",
-      "stationData": []
+      "stationData": [],
+      "color": "0039A6"
     },
     {
       "ident": "D",
-      "stationData": []
+      "stationData": [],
+      "color": "FF6319"
     },
     {
       "ident": "E",
-      "stationData": []
+      "stationData": [],
+      "color": "0039A6"
     },
     {
       "ident": "F",
-      "stationData": []
+      "stationData": [],
+      "color": "FF6319"
     },
     {
       "ident": "G",
@@ -1175,19 +1184,23 @@
     },
     {
       "ident": "M",
-      "stationData": []
+      "stationData": [],
+      "color": "FF6319"
     },
     {
       "ident": "N",
-      "stationData": []
+      "stationData": [],
+      "color": "FCCC0A"
     },
     {
       "ident": "Q",
-      "stationData": []
+      "stationData": [],
+      "color": "FCCC0A"
     },
     {
       "ident": "R",
-      "stationData": []
+      "stationData": [],
+      "color": "FCCC0A"
     },
     {
       "ident": "S42",
@@ -1259,11 +1272,13 @@
     },
     {
       "ident": "W",
-      "stationData": []
+      "stationData": [],
+      "color": "FCCC0A"
     },
     {
       "ident": "Z",
-      "stationData": []
+      "stationData": [],
+      "color": "996633"
     }
   ]
 }
