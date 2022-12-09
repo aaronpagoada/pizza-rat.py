@@ -61,6 +61,7 @@ async def time(ctx, *args):
   station_code_S = ""
   next_arrivals_S = []
   terminal_S = ""
+  color = ""
   
   user_line = args[0]
   user_station = ' '.join(args[1:])
@@ -75,6 +76,7 @@ async def time(ctx, *args):
 
   for line in services["service"]:
     if line["ident"] == user_line:
+      color = line["color"]
       user_line = line["ident"] # just to be extra sure
       terminal_N = line["stationData"][0]["stationName"]
       terminal_S = line["stationData"][-1]["stationName"]
@@ -112,7 +114,7 @@ async def time(ctx, *args):
             next_arrivals_S[i] = strftime("%I:%M:%S %p", next_arrivals_S[i])
           break
 
-  timeEmbed = discord.Embed(title = f'{station["stationName"]} ({user_line}) Arrival Times')
+  timeEmbed = discord.Embed(title = f'{station["stationName"]} ({user_line}) Arrival Times', color = int(color, base=16))
   timeEmbed.add_field(name=f'To {terminal_N}', value=f'[1] {next_arrivals_N[0]}', inline=True)
   timeEmbed.add_field(name='\u200b', value=f'[2] {next_arrivals_N[1]}', inline=True)
   timeEmbed.add_field(name='\u200b', value=f'[3] {next_arrivals_N[2]}', inline=True)

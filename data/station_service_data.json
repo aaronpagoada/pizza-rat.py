@@ -193,7 +193,8 @@
           "stationCodeN": "140N",
           "stationCodeS": "140S"
         }
-      ]
+      ],
+      "color": "EE352E"
     },
     {
       "ident": "2",
@@ -443,7 +444,8 @@
           "stationCodeN": "247N",
           "stationCodeS": "247S"
         }
-      ]
+      ],
+      "color": "EE352E"
     },
     {
       "ident": "3",
@@ -623,7 +625,8 @@
           "stationCodeN": "257N",
           "stationCodeS": "257S"
         }
-      ]
+      ],
+      "color": "EE352E"
     },
     {
       "ident": "4",
@@ -750,7 +753,8 @@
           "stationCodeN": "701N",
           "stationCodeS": "701S"
         }
-      ]
+      ],
+      "color": "B933AD"
     },
     {
       "ident": "A",
@@ -884,7 +888,8 @@
           "stationCodeN": "F27N",
           "stationCodeS": "F27S"
         }
-      ]
+      ],
+      "color": "6CBE45"
     },
     {
       "ident": "J",
@@ -1039,7 +1044,8 @@
           "stationCodeN": "G05N",
           "stationCodeS": "G05S"
         }
-      ]
+      ],
+      "color": "996633"
     },
     {
       "ident": "L",
@@ -1164,7 +1170,8 @@
           "stationCodeN": "L29N",
           "stationCodeS": "L29S"
         }
-      ]
+      ],
+      "color": "A7A9AC"
     },
     {
       "ident": "M",
@@ -1195,7 +1202,8 @@
           "stationCodeN": "902N",
           "stationCodeS": "902S"
         }
-      ]
+      ],
+      "color": "808183"
     },
     {
       "ident": "SF",
@@ -1215,7 +1223,8 @@
           "stationCodeN": "S04N",
           "stationCodeS": "S04S"
         }
-      ]
+      ],
+      "color": "808183"
     },
     {
       "ident": "SR",
@@ -1245,7 +1254,8 @@
           "stationCodeN": "H15N",
           "stationCodeS": "H15S"
         }
-      ]
+      ],
+      "color": "808183"
     },
     {
       "ident": "W",
