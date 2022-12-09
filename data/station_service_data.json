@@ -777,7 +777,158 @@
     },
     {
       "ident": "J",
-      "stationData": []
+      "stationData": [
+        { 
+          "stationName": "Broad St",
+          "stationCodeN": "M23N",
+          "stationCodeS": "M23S"
+        },
+        {
+          "stationName": "Fulton St",
+          "stationCodeN": "M22N",
+          "stationCodeS": "M22S"
+        },
+        {
+          "stationName": "Chambers St",
+          "stationCodeN": "M21N",
+          "stationCodeS": "M21S"
+        },
+        {
+          "stationName": "Canal St",
+          "stationCodeN": "M20N",
+          "stationCodeS": "M20S"
+        },
+        {
+          "stationName": "Bowery",
+          "stationCodeN": "M19N",
+          "stationCodeS": "M19S"
+        },
+        {
+          "stationName": "Delancey St - Essex St", 
+          "stationCodeN": "M18N",
+          "stationCodeS": "M18S"
+        },
+        {
+          "stationName": "Marcy Av",
+          "stationCodeN": "M16N",
+          "stationCodeS": "M16S"
+        },
+        {
+          "stationName": "Hewes St",
+          "stationCodeN": "M14N",
+          "stationCodeS": "M14S"
+        },
+        {
+          "stationName": "Lorimer St",
+          "stationCodeN": "M13N",
+          "stationCodeS": "M13S"
+        },
+        {
+          "stationName": "Flushing Av",
+          "stationCodeN": "M12N",
+          "stationCodeS": "M12S"
+        },
+        {
+          "stationName": "Myrtle Av",
+          "stationCodeN": "M11N",
+          "stationCodeS": "M11S"
+        },
+        {
+          "stationName": "Kosciuszko St",
+          "stationCodeN": "J31N",
+          "stationCodeS": "J31S"
+        },
+        {
+          "stationName": "Gates Av",
+          "stationCodeN": "J30N",
+          "stationCodeS": "J30S"
+        },
+        {
+          "stationName": "Halsey St",
+          "stationCodeN": "J29N",
+          "stationCodeS": "J29S"
+        },
+        {
+          "stationName": "Chauncey St",
+          "stationCodeN": "J28N",
+          "stationCodeS": "J28S"
+        },
+        {
+          "stationName": "Broadway Jct",
+          "stationCodeN": "J27N",
+          "stationCodeS": "J27S"
+        },
+        {
+          "stationName": "Alabama Av",
+          "stationCodeN": "J24N",
+          "stationCodeS": "J24S"
+        },
+        {
+          "stationName": "Van Siclen Av",
+          "stationCodeN": "J23N",
+          "stationCodeS": "J23S"
+        },
+        {
+          "stationName": "Cleveland St",
+          "stationCodeN": "J22N",
+          "stationCodeS": "J22S"
+        },
+        {
+          "stationName": "Norwood Av",
+          "stationCodeN": "J21N",
+          "stationCodeS": "J21S"
+        },
+        {
+          "stationName": "Crescent St",
+          "stationCodeN": "J20N",
+          "stationCodeS": "J20S"
+        },
+        {
+          "stationName": "Cypress Hills",
+          "stationCodeN": "J19N",
+          "stationCodeS": "J19S"
+        },
+        {
+          "stationName": "75 St - Elderts Ln",
+          "stationCodeN": "J17N",
+          "stationCodeS": "J17S"
+        },
+        {
+          "stationName": "85 St - Forest Pkwy",
+          "stationCodeN": "J16N",
+          "stationCodeS": "J16S"
+        },
+        {
+          "stationName": "Woodhaven Blvd",
+          "stationCodeN": "J15N",
+          "stationCodeS": "J15S"
+        },
+        {
+          "stationName": "104 St",
+          "stationCodeN": "J14N",
+          "stationCodeS": "J14S"
+        },
+        {
+          "stationName": "111 St",
+          "stationCodeN": "J13N",
+          "stationCodeS": "J13S"
+        },
+        {
+          "stationName": "121 St",
+          "stationCodeN": "J12N",
+          "stationCodeS": "J12S"
+        },
+        {
+          "stationName": "Sutphin Blvd - Archer Av - JFK Airport",
+          "stationCodeN": "G06N",
+          "stationCodeS": "G06S"
+        },
+        {
+          "stationName": "Jamaica Center - Persons/Archer",
+          "stationCodeN": "G05N",
+          "stationCodeS": "G05S"
+        }
+      ]
     },
     {
       "ident": "L",
