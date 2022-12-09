@@ -639,7 +639,118 @@
     },
     {
       "ident": "7",
-      "stationData": []
+      "stationData": [
+        {
+          "stationName": "34 St - Hudson Yards",
+          "stationCodeN": "726N",
+          "stationCodeS": "726S"
+        },
+        {
+          "stationName": "Times Sq - 42 St",
+          "stationCodeN": "725N",
+          "stationCodeS": "725S"
+        },
+        {
+          "stationName": "5 Av",
+          "stationCodeN": "724N",
+          "stationCodeS": "724S"
+        },
+        {
+          "stationName": "Grand Central - 42 St",
+          "stationCodeN": "723N",
+          "stationCodeS": "723S"
+        },
+        {
+          "stationName": "Vernon Blvd - Jackson Av",
+          "stationCodeN": "721N",
+          "stationCodeS": "721S"
+        },
+        {
+          "stationName": "Hunters Point Av",
+          "stationCodeN": "720N",
+          "stationCodeS": "720S"
+        },
+        {
+          "stationName": "Court Sq",
+          "stationCodeN": "719N",
+          "stationCodeS": "719S"
+        },
+        {
+          "stationName": "Queensboro Plaza",
+          "stationCodeN": "718N",
+          "stationCodeS": "718S"
+        },
+        {
+          "stationName": "33 St - Rawson St",
+          "stationCodeN": "716N",
+          "stationCodeS": "716S"
+        },
+        {
+          "stationName": "40 St - Lowery St",
+          "stationCodeN": "715N",
+          "stationCodeS": "715S"
+        },
+        {
+          "stationName": "46 St - Bliss St",
+          "stationCodeN": "714N",
+          "stationCodeS": "714S"
+        },
+        {
+          "stationName": "52 St",
+          "stationCodeN": "713N",
+          "stationCodeS": "713S"
+        },
+        {
+          "stationName": "61 St - Woodside",
+          "stationCodeN": "712N",
+          "stationCodeS": "712S"
+        },
+        {
+          "stationName": "69 St",
+          "stationCodeN": "711N",
+          "stationCodeS": "711S"
+        },
+        {
+          "stationName": "74 St - Broadway",
+          "stationCodeN": "710N",
+          "stationCodeS": "710S"
+        },
+        {
+          "stationName": "82 St - Jackson Hts",
+          "stationCodeN": "709N",
+          "stationCodeS": "709S"
+        },
+        {
+          "stationName": "90 St - Elmhurst Av",
+          "stationCodeN": "708N",
+          "stationCodeS": "708S"
+        },
+        {
+          "stationName": "Junction Blvd",
+          "stationCodeN": "707N",
+          "stationCodeS": "707S"
+        },
+        {
+          "stationName": "103 St - Corona Plaza",
+          "stationCodeN": "706N",
+          "stationCodeS": "706S"
+        },
+        {
+          "stationName": "111 St",
+          "stationCodeN": "705N",
+          "stationCodeS": "705S"
+        },
+        {
+          "stationName": "Mets - Willets Point",
+          "stationCodeN": "702N",
+          "stationCodeS": "702S"
+        },
+        {
+          "stationName": "Flushing - Main St",
+          "stationCodeN": "701N",
+          "stationCodeS": "701S"
+        }
+      ]
     },
     {
       "ident": "A",
