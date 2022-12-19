@@ -1,4 +1,6 @@
 # PizzaRat
+![Generic badge](https://img.shields.io/badge/Made%20with%20love%20in-Brooklyn-blue)
+
 PizzaRat is a Discord bot that will help you get around NYC using the world's most famous transit system!
 
 ## Commands
