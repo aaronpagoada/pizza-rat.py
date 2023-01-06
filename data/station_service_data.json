@@ -771,7 +771,209 @@
     },
     {
       "ident": "C",
-      "stationData": [],
+      "stationData": [
+        {
+          "stationName": "168 St",
+          "stationCodeN": "A09N",
+          "stationCodeS": "A09S"
+        },
+        {
+          "stationName": "163 St - Amsterdam Av",
+          "stationCodeN": "A10N",
+          "stationCodeS": "A10S"
+        },
+        {
+          "stationName": "155 St",
+          "stationCodeN": "A11N",
+          "stationCodeS": "A11S"
+        },
+        {
+          "stationName": "145 St",
+          "stationCodeN": "A12N",
+          "stationCodeS": "A12S"
+        },
+        {
+          "stationName": "135 St",
+          "stationCodeN": "A14N",
+          "stationCodeS": "A14S"
+        },
+        {
+          "stationName": "125 St",
+          "stationCodeN": "A15N",
+          "stationCodeS": "A15S"
+        },
+        {
+          "stationName": "116 St",
+          "stationCodeN": "A16N",
+          "stationCodeS": "A16S"
+        },        
+        {
+          "stationName": "Cathedral Pkwy - 110 St",
+          "stationCodeN": "A17N",
+          "stationCodeS": "A17S"
+        },
+        {
+          "stationName": "103 St",
+          "stationCodeN": "A18N",
+          "stationCodeS": "A18S"
+        },
+        {
+          "stationName": "96 St",
+          "stationCodeN": "A19N",
+          "stationCodeS": "A19S"
+        },
+        {
+          "stationName": "86 St",
+          "stationCodeN": "A20N",
+          "stationCodeS": "A20S"
+        },
+        {
+          "stationName": "81 St - Museum of Natural History",
+          "stationCodeN": "A21N",
+          "stationCodeS": "A21S"
+        },
+        {
+          "stationName": "72 St",
+          "stationCodeN": "A22N",
+          "stationCodeS": "A22S"
+        },
+        {
+          "stationName": "59 St - Columbus Circle",
+          "stationCodeN": "A24N",
+          "stationCodeS": "A24S"
+        },
+        {
+          "stationName": "50 St",
+          "stationCodeN": "A25N",
+          "stationCodeS": "A25S"
+        },
+        {
+          "stationName": "42 St - PABT",
+          "stationCodeN": "A27N",
+          "stationCodeS": "A27S"
+        },
+        {
+          "stationName": "34 St - Penn Station",
+          "stationCodeN": "A28N",
+          "stationCodeS": "A28S"
+        },
+        {
+          "stationName": "23 St",
+          "stationCodeN": "A30N",
+          "stationCodeS": "A30S"
+        },
+        {
+          "stationName": "14 St",
+          "stationCodeN": "A31N",
+          "stationCodeS": "A31S"
+        },
+        {
+          "stationName": "W 4 St - Wash Sq",
+          "stationCodeN": "A32N",
+          "stationCodeS": "A32S"
+        },
+        {
+          "stationName": "Spring St",
+          "stationCodeN": "A33N",
+          "stationCodeS": "A33S"
+        },
+        {
+          "stationName": "Canal St",
+          "stationCodeN": "A34N",
+          "stationCodeS": "A34S"
+        },
+        {
+          "stationName": "Chambers St",
+          "stationCodeN": "A36N",
+          "stationCodeS": "A36S"
+        },
+        {
+          "stationName": "Fulton St",
+          "stationCodeN": "A38N",
+          "stationCodeS": "A38S"
+        },
+        {
+          "stationName": "High St",
+          "stationCodeN": "A40N",
+          "stationCodeS": "A40S"
+        },
+        {
+          "stationName": "Jay St - Metrotech",
+          "stationCodeN": "A41N",
+          "stationCodeS": "A41S"
+        },
+        {
+          "stationName": "Hoyt - Schermerhorn Sts",
+          "stationCodeN": "A42N",
+          "stationCodeS": "A42S"
+        },
+        {
+          "stationName": "Lafayette Av",
+          "stationCodeN": "A43N",
+          "stationCodeS": "A43S"
+        },
+        {
+          "stationName": "Clinton - Washington Avs",
+          "stationCodeN": "A44N",
+          "stationCodeS": "A44S"
+        },
+        {
+          "stationName": "Franklin Av",
+          "stationCodeN": "A45N",
+          "stationCodeS": "A45S"
+        },
+        {
+          "stationName": "Nostrand Av",
+          "stationCodeN": "A46N",
+          "stationCodeS": "A46S"
+        },
+        {
+          "stationName": "Kingston - Throop Avs",
+          "stationCodeN": "A47N",
+          "stationCodeS": "A47S"
+        },
+        {
+          "stationName": "Utica Av",
+          "stationCodeN": "A48N",
+          "stationCodeS": "A48S"
+        },
+        {
+          "stationName": "Ralph Av",
+          "stationCodeN": "A49N",
+          "stationCodeS": "A49S"
+        },
+        {
+          "stationName": "Rockaway Av",
+          "stationCodeN": "A50N",
+          "stationCodeS": "A50S"
+        },
+        {
+          "stationName": "Broadway Junction",
+          "stationCodeN": "A51N",
+          "stationCodeS": "A51S"
+        },
+        {
+          "stationName": "Liberty Av",
+          "stationCodeN": "A52N",
+          "stationCodeS": "A52S"
+        },
+        {
+          "stationName": "Van Siclen Av",
+          "stationCodeN": "A53N",
+          "stationCodeS": "A53S"
+        },
+
+        {
+          "stationName": "Shepherd Av",
+          "stationCodeN": "A54N",
+          "stationCodeS": "A54S"
+        },
+        {
+          "stationName": "Euclid Av",
+          "stationCodeN": "A55N",
+          "stationCodeS": "A55S"
+        }
+      ],
       "color": "0039A6"
     },
     {
@@ -979,7 +1181,7 @@
           "stationCodeS": "J28S"
         },
         {
-          "stationName": "Broadway Jct",
+          "stationName": "Broadway Junction",
           "stationCodeN": "J27N",
           "stationCodeS": "J27S"
         },
@@ -1145,7 +1347,7 @@
           "stationCodeS": "L21S"
         },
         {
-          "stationName": "Broadway Jct",
+          "stationName": "Broadway Junction",
           "stationCodeN": "L22N",
           "stationCodeS": "L22S"
         },
