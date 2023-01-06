@@ -17,14 +17,14 @@ intents.message_content = True
 
 bot = commands.Bot(intents=intents, command_prefix='t/')
 
-@bot.event
+@bot.event # Bot login
 async def on_ready():
   try:
     print("Logged in as " + bot.user.name)
   except Exception:
     print(Exception)
 
-@bot.command(
+@bot.command( # t/line
   help = "Get all the stations in a service line",
   brief = "Returns all the stations in a given line"
 )
@@ -44,7 +44,7 @@ async def line(ctx, args):
 
   await ctx.channel.send(f"```{stations}```")
 
-@bot.command(
+@bot.command( # t/time
   help = "Get next three train times in both directions",
   brief = "Returns next three train times in both directions"
 )
@@ -66,9 +66,6 @@ async def time(ctx, *args):
   user_line = args[0]
   user_station = ' '.join(args[1:])
 
-  # i think nested for loops are a big no no,
-  # but they get the job done so ¯\_(ツ)_/¯
-  # i am thinking of maybe doing switch statements but unsure
   for line in apis["service"]:
     if line["ident"] == user_line:
       api = line["api"]
