@@ -4,7 +4,7 @@
       "ident": "1",
       "stationData": [
         {
-          "stationName": "Van Cortlandt Park - 242 St",
+          "stationName": "Van Cortlandt Park-242 St",
           "stationCodeN": "101N",
           "stationCodeS": "101S"
         },
@@ -19,7 +19,7 @@
           "stationCodeS": "104S"
         },
         {
-          "stationName": "Marble Hill - 225 St",
+          "stationName": "Marble Hill-225 St",
           "stationCodeN": "106N",
           "stationCodeS": "106S"
         },
@@ -49,7 +49,7 @@
           "stationCodeS": "111S"
         },
         {
-          "stationName": "168 St - Washington Hts",
+          "stationName": "168 St-Washington Hts",
           "stationCodeN": "112N",
           "stationCodeS": "112S"
         },
@@ -64,7 +64,7 @@
           "stationCodeS": "114S"
         },
         {
-          "stationName": "137 St - City College",
+          "stationName": "137 St-City College",
           "stationCodeN": "115N",
           "stationCodeS": "115S"
         },
@@ -74,12 +74,12 @@
           "stationCodeS": "116S"
         },
         {
-          "stationName": "116 St - Columbia University",
+          "stationName": "116 St-Columbia University",
           "stationCodeN": "117N",
           "stationCodeS": "117S"
         },
         {
-          "stationName": "Cathedral Pkwy - 110 St",
+          "stationName": "Cathedral Pkwy-110 St",
           "stationCodeN": "118N",
           "stationCodeS": "118S"
         },
@@ -109,12 +109,12 @@
           "stationCodeS": "123S"
         },
         {
-          "stationName": "66 St - Lincoln Center",
+          "stationName": "66 St-Lincoln Center",
           "stationCodeN": "124N",
           "stationCodeS": "124S"
         },
         {
-          "stationName": "59 St - Columbus Circle",
+          "stationName": "59 St-Columbus Circle",
           "stationCodeN": "125N",
           "stationCodeS": "125S"
         },
@@ -124,12 +124,12 @@
           "stationCodeS": "126S"
         },
         {
-          "stationName": "Times Sq - 42 St",
+          "stationName": "Times Sq-42 St",
           "stationCodeN": "127N",
           "stationCodeS": "127S"
         },
         {
-          "stationName": "34 St - Penn Station",
+          "stationName": "34 St-Penn Station",
           "stationCodeN": "128N",
           "stationCodeS": "128S"
         },
@@ -154,7 +154,7 @@
           "stationCodeS": "132S"
         },
         {
-          "stationName": "Christopher St - Sheridan Sq",
+          "stationName": "Christopher St-Sheridan Sq",
           "stationCodeN": "133N",
           "stationCodeS": "133S"
         },
@@ -200,7 +200,7 @@
       "ident": "2",
       "stationData": [
         {
-          "stationName": "Wakefield - 241 St",
+          "stationName": "Wakefield-241 St",
           "stationCodeN": "201N",
           "stationCodeS": "201S"
         },
@@ -255,7 +255,7 @@
           "stationCodeS": "213S"
         },
         {
-          "stationName": "West Farms Sq - E Tremont Av",
+          "stationName": "West Farms Sq-E Tremont Av",
           "stationCodeN": "214N",
           "stationCodeS": "214S"
         },
@@ -290,12 +290,12 @@
           "stationCodeS": "220S"
         },
         {
-          "stationName": "3 Av - 149 St",
+          "stationName": "3 Av-149 St",
           "stationCodeN": "221N",
           "stationCodeS": "221S"
         },
         {
-          "stationName": "149 St - Grand Concourse",
+          "stationName": "149 St-Grand Concourse",
           "stationCodeN": "222N",
           "stationCodeS": "222S"
         },
@@ -315,7 +315,7 @@
           "stationCodeS": "226S"
         },
         {
-          "stationName": "Central Park North - 110 St",
+          "stationName": "Central Park North-110 St",
           "stationCodeN": "227N",
           "stationCodeS": "227S"
         },
@@ -330,12 +330,12 @@
           "stationCodeS": "123S"
         },
         {
-          "stationName": "Times Sq - 42 St",
+          "stationName": "Times Sq-42 St",
           "stationCodeN": "127N",
           "stationCodeS": "127S"
         },
         {
-          "stationName": "34 St - Penn Station",
+          "stationName": "34 St-Penn Station",
           "stationCodeN": "128N",
           "stationCodeS": "128S"
         },
@@ -385,7 +385,7 @@
           "stationCodeS": "234S"
         },
         {
-          "stationName": "Atlantic Av - Barclays Ctr",
+          "stationName": "Atlantic Av-Barclays Ctr",
           "stationCodeN": "235N",
           "stationCodeS": "235S"
         },
@@ -400,7 +400,7 @@
           "stationCodeS": "237S"
         },
         {
-          "stationName": "Eastern Pkwy - Brooklyn Museum",
+          "stationName": "Eastern Pkwy-Brooklyn Museum",
           "stationCodeN": "238N",
           "stationCodeS": "238S"
         },
@@ -440,7 +440,7 @@
           "stationCodeS": "246S"
         },
         {
-          "stationName": "Flatbush Av - Brooklyn College",
+          "stationName": "Flatbush Av-Brooklyn College",
           "stationCodeN": "247N",
           "stationCodeS": "247S"
         }
@@ -451,7 +451,7 @@
       "ident": "3",
       "stationData": [
         {
-          "stationName": "Harlem - 148 St",
+          "stationName": "Harlem-148 St",
           "stationCodeN": "301N",
           "stationCodeS": "301S"
         },
@@ -476,7 +476,7 @@
           "stationCodeS": "226S"
         },
         {
-          "stationName": "Central Park North - 110 St",
+          "stationName": "Central Park North-110 St",
           "stationCodeN": "227N",
           "stationCodeS": "227S"
         },
@@ -501,12 +501,12 @@
           "stationCodeS": "123S"
         },
         {
-          "stationName": "Times Sq - 42 St",
+          "stationName": "Times Sq-42 St",
           "stationCodeN": "127N",
           "stationCodeS": "127S"
         },
         {
-          "stationName": "34 St - Penn Station",
+          "stationName": "34 St-Penn Station",
           "stationCodeN": "128N",
           "stationCodeS": "128S"
         },
@@ -551,7 +551,7 @@
           "stationCodeS": "234S"
         },
         {
-          "stationName": "Atlantic Av - Barclays Ctr",
+          "stationName": "Atlantic Av-Barclays Ctr",
           "stationCodeN": "235N",
           "stationCodeS": "235S"
         },
@@ -566,7 +566,7 @@
           "stationCodeS": "237S"
         },
         {
-          "stationName": "Eastern Pkwy - Brooklyn Museum",
+          "stationName": "Eastern Pkwy-Brooklyn Museum",
           "stationCodeN": "238N",
           "stationCodeS": "238S"
         },
@@ -586,12 +586,12 @@
           "stationCodeS": "249S"
         },
         {
-          "stationName": "Crown Hts - Utica Av",
+          "stationName": "Crown Hts-Utica Av",
           "stationCodeN": "250N",
           "stationCodeS": "250S"
         },
         {
-          "stationName": "Sutter Av - Rutland Rd",
+          "stationName": "Sutter Av-Rutland Rd",
           "stationCodeN": "251N",
           "stationCodeS": "251S"
         },
@@ -647,12 +647,12 @@
       "ident": "7",
       "stationData": [
         {
-          "stationName": "34 St - Hudson Yards",
+          "stationName": "34 St-Hudson Yards",
           "stationCodeN": "726N",
           "stationCodeS": "726S"
         },
         {
-          "stationName": "Times Sq - 42 St",
+          "stationName": "Times Sq-42 St",
           "stationCodeN": "725N",
           "stationCodeS": "725S"
         },
@@ -662,12 +662,12 @@
           "stationCodeS": "724S"
         },
         {
-          "stationName": "Grand Central - 42 St",
+          "stationName": "Grand Central-42 St",
           "stationCodeN": "723N",
           "stationCodeS": "723S"
         },
         {
-          "stationName": "Vernon Blvd - Jackson Av",
+          "stationName": "Vernon Blvd-Jackson Av",
           "stationCodeN": "721N",
           "stationCodeS": "721S"
         },
@@ -687,17 +687,17 @@
           "stationCodeS": "718S"
         },
         {
-          "stationName": "33 St - Rawson St",
+          "stationName": "33 St-Rawson St",
           "stationCodeN": "716N",
           "stationCodeS": "716S"
         },
         {
-          "stationName": "40 St - Lowery St",
+          "stationName": "40 St-Lowery St",
           "stationCodeN": "715N",
           "stationCodeS": "715S"
         },
         {
-          "stationName": "46 St - Bliss St",
+          "stationName": "46 St-Bliss St",
           "stationCodeN": "714N",
           "stationCodeS": "714S"
         },
@@ -707,7 +707,7 @@
           "stationCodeS": "713S"
         },
         {
-          "stationName": "61 St - Woodside",
+          "stationName": "61 St-Woodside",
           "stationCodeN": "712N",
           "stationCodeS": "712S"
         },
@@ -717,17 +717,17 @@
           "stationCodeS": "711S"
         },
         {
-          "stationName": "74 St - Broadway",
+          "stationName": "74 St-Broadway",
           "stationCodeN": "710N",
           "stationCodeS": "710S"
         },
         {
-          "stationName": "82 St - Jackson Hts",
+          "stationName": "82 St-Jackson Hts",
           "stationCodeN": "709N",
           "stationCodeS": "709S"
         },
         {
-          "stationName": "90 St - Elmhurst Av",
+          "stationName": "90 St-Elmhurst Av",
           "stationCodeN": "708N",
           "stationCodeS": "708S"
         },
@@ -737,7 +737,7 @@
           "stationCodeS": "707S"
         },
         {
-          "stationName": "103 St - Corona Plaza",
+          "stationName": "103 St-Corona Plaza",
           "stationCodeN": "706N",
           "stationCodeS": "706S"
         },
@@ -747,12 +747,12 @@
           "stationCodeS": "705S"
         },
         {
-          "stationName": "Mets - Willets Point",
+          "stationName": "Mets-Willets Point",
           "stationCodeN": "702N",
           "stationCodeS": "702S"
         },
         {
-          "stationName": "Flushing - Main St",
+          "stationName": "Flushing-Main St",
           "stationCodeN": "701N",
           "stationCodeS": "701S"
         }
@@ -778,7 +778,7 @@
           "stationCodeS": "A09S"
         },
         {
-          "stationName": "163 St - Amsterdam Av",
+          "stationName": "163 St-Amsterdam Av",
           "stationCodeN": "A10N",
           "stationCodeS": "A10S"
         },
@@ -808,7 +808,7 @@
           "stationCodeS": "A16S"
         },        
         {
-          "stationName": "Cathedral Pkwy - 110 St",
+          "stationName": "Cathedral Pkwy-110 St",
           "stationCodeN": "A17N",
           "stationCodeS": "A17S"
         },
@@ -828,7 +828,7 @@
           "stationCodeS": "A20S"
         },
         {
-          "stationName": "81 St - Museum of Natural History",
+          "stationName": "81 St-Museum of Natural History",
           "stationCodeN": "A21N",
           "stationCodeS": "A21S"
         },
@@ -838,7 +838,7 @@
           "stationCodeS": "A22S"
         },
         {
-          "stationName": "59 St - Columbus Circle",
+          "stationName": "59 St-Columbus Circle",
           "stationCodeN": "A24N",
           "stationCodeS": "A24S"
         },
@@ -848,12 +848,12 @@
           "stationCodeS": "A25S"
         },
         {
-          "stationName": "42 St - PABT",
+          "stationName": "42 St-PABT",
           "stationCodeN": "A27N",
           "stationCodeS": "A27S"
         },
         {
-          "stationName": "34 St - Penn Station",
+          "stationName": "34 St-Penn Station",
           "stationCodeN": "A28N",
           "stationCodeS": "A28S"
         },
@@ -868,7 +868,7 @@
           "stationCodeS": "A31S"
         },
         {
-          "stationName": "W 4 St - Wash Sq",
+          "stationName": "W 4 St-Wash Sq",
           "stationCodeN": "A32N",
           "stationCodeS": "A32S"
         },
@@ -898,12 +898,12 @@
           "stationCodeS": "A40S"
         },
         {
-          "stationName": "Jay St - Metrotech",
+          "stationName": "Jay St-Metrotech",
           "stationCodeN": "A41N",
           "stationCodeS": "A41S"
         },
         {
-          "stationName": "Hoyt - Schermerhorn Sts",
+          "stationName": "Hoyt-Schermerhorn Sts",
           "stationCodeN": "A42N",
           "stationCodeS": "A42S"
         },
@@ -913,7 +913,7 @@
           "stationCodeS": "A43S"
         },
         {
-          "stationName": "Clinton - Washington Avs",
+          "stationName": "Clinton-Washington Avs",
           "stationCodeN": "A44N",
           "stationCodeS": "A44S"
         },
@@ -928,7 +928,7 @@
           "stationCodeS": "A46S"
         },
         {
-          "stationName": "Kingston - Throop Avs",
+          "stationName": "Kingston-Throop Avs",
           "stationCodeN": "A47N",
           "stationCodeS": "A47S"
         },
@@ -1030,12 +1030,12 @@
           "stationCodeS": "G31S"
         },
         {
-          "stationName": "Myrtle - Willoughby Avs",
+          "stationName": "Myrtle-Willoughby Avs",
           "stationCodeN": "G32N",
           "stationCodeS": "G32S"
         },
         {
-          "stationName": "Bedford - Nostrand Avs",
+          "stationName": "Bedford-Nostrand Avs",
           "stationCodeN": "G33N",
           "stationCodeS": "G33S"
         },
@@ -1045,7 +1045,7 @@
           "stationCodeS": "G34S"
         },
         {
-          "stationName": "Clinton - Washington Avs",
+          "stationName": "Clinton-Washington Avs",
           "stationCodeN": "G35N",
           "stationCodeS": "G35S"
         },
@@ -1055,7 +1055,7 @@
           "stationCodeS": "G36S"
         },
         {
-          "stationName": "Hoyt - Schermerhorn Sts",
+          "stationName": "Hoyt-Schermerhorn Sts",
           "stationCodeN": "A42N",
           "stationCodeS": "A42S"
         },
@@ -1070,7 +1070,7 @@
           "stationCodeS": "F21S"
         },
         {
-          "stationName": "Smith - 9 Sts",
+          "stationName": "Smith-9 Sts",
           "stationCodeN": "F22N",
           "stationCodeS": "F22S"
         },
@@ -1085,7 +1085,7 @@
           "stationCodeS": "F24S"
         },
         {
-          "stationName": "15 St - Prospect Park",
+          "stationName": "15 St-Prospect Park",
           "stationCodeN": "F25N",
           "stationCodeS": "F25S"
         },
@@ -1131,7 +1131,7 @@
           "stationCodeS": "M19S"
         },
         {
-          "stationName": "Delancey St - Essex St", 
+          "stationName": "Delancey St-Essex St", 
           "stationCodeN": "M18N",
           "stationCodeS": "M18S"
         },
@@ -1216,12 +1216,12 @@
           "stationCodeS": "J19S"
         },
         {
-          "stationName": "75 St - Elderts Ln",
+          "stationName": "75 St-Elderts Ln",
           "stationCodeN": "J17N",
           "stationCodeS": "J17S"
         },
         {
-          "stationName": "85 St - Forest Pkwy",
+          "stationName": "85 St-Forest Pkwy",
           "stationCodeN": "J16N",
           "stationCodeS": "J16S"
         },
@@ -1246,12 +1246,12 @@
           "stationCodeS": "J12S"
         },
         {
-          "stationName": "Sutphin Blvd - Archer Av - JFK Airport",
+          "stationName": "Sutphin Blvd-Archer Av-JFK Airport",
           "stationCodeN": "G06N",
           "stationCodeS": "G06S"
         },
         {
-          "stationName": "Jamaica Center - Parsons/Archer",
+          "stationName": "Jamaica Center-Parsons/Archer",
           "stationCodeN": "G05N",
           "stationCodeS": "G05S"
         }
@@ -1272,7 +1272,7 @@
           "stationCodeS": "L02S"
         },
         {
-          "stationName": "Union Sq - 14 St",
+          "stationName": "Union Sq-14 St",
           "stationCodeN": "L03N",
           "stationCodeS": "L03S"
         },
@@ -1327,7 +1327,7 @@
           "stationCodeS": "L16S"
         },
         {
-          "stationName": "Myrtle - Wyckoff Avs",
+          "stationName": "Myrtle-Wyckoff Avs",
           "stationCodeN": "L17N",
           "stationCodeS": "L17S"
         },
@@ -1342,7 +1342,7 @@
           "stationCodeS": "L20S"
         },
         {
-          "stationName": "Bushwick Av - Aberdeen St",
+          "stationName": "Bushwick Av-Aberdeen St",
           "stationCodeN": "L21N",
           "stationCodeS": "L21S"
         },
@@ -1377,7 +1377,7 @@
           "stationCodeS": "L28S"
         },
         {
-          "stationName": "Canarsie - Rockaway Pkwy",
+          "stationName": "Canarsie-Rockaway Pkwy",
           "stationCodeN": "L29N",
           "stationCodeS": "L29S"
         }
@@ -1408,12 +1408,12 @@
       "ident": "S42",
       "stationData": [
         {
-          "stationName": "Grand Central - 42 St",
+          "stationName": "Grand Central-42 St",
           "stationCodeN": "901N",
           "stationCodeS": "901S"
         },
         {
-          "stationName": "Times Sq - 42 St",
+          "stationName": "Times Sq-42 St",
           "stationCodeN": "902N",
           "stationCodeS": "902S"
         }
@@ -1465,7 +1465,7 @@
           "stationCodeS": "H14S"
         },
         {
-          "stationName": "Rockaway Park - Beach 116 St",
+          "stationName": "Rockaway Park-Beach 116 St",
           "stationCodeN": "H15N",
           "stationCodeS": "H15S"
         }
