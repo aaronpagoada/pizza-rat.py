@@ -761,7 +761,228 @@
     },
     {
       "ident": "A",
-      "stationData": [],
+      "stationData": [
+        {
+          "stationName": "Inwood-207 St",
+          "stationCodeN": "A02N",
+          "stationCodeS": "A02S"
+        },
+        {
+          "stationName": "Dyckman St",
+          "stationCodeN": "A03N",
+          "stationCodeS": "A03S"
+        },
+        {
+          "stationName": "190 St",
+          "stationCodeN": "A05N",
+          "stationCodeS": "A05S"
+        },
+        {
+          "stationName": "181 St",
+          "stationCodeN": "A06N",
+          "stationCodeS": "A06S"
+        },
+        {
+          "stationName": "175 St",
+          "stationCodeN": "A07N",
+          "stationCodeS": "A07S"
+        },
+        {
+          "stationName": "168 St",
+          "stationCodeN": "A09N",
+          "stationCodeS": "A09S"
+        },
+        {
+          "stationName": "145 St",
+          "stationCodeN": "A12N",
+          "stationCodeS": "A12S"
+        },
+        {
+          "stationName": "125 St",
+          "stationCodeN": "A15N",
+          "stationCodeS": "A15S"
+        },
+        {
+          "stationName": "59 St-Columbus Circle",
+          "stationCodeN": "A24N",
+          "stationCodeS": "A24S"
+        },
+        {
+          "stationName": "42 St-PABT",
+          "stationCodeN": "A27N",
+          "stationCodeS": "A27S"
+        },
+        {
+          "stationName": "34 St-Penn Station",
+          "stationCodeN": "A28N",
+          "stationCodeS": "A28S"
+        },
+        {
+          "stationName": "14 St",
+          "stationCodeN": "A31N",
+          "stationCodeS": "A31S"
+        },
+        {
+          "stationName": "W 4 St-Wash Sq",
+          "stationCodeN": "A32N",
+          "stationCodeS": "A32S"
+        },
+        {
+          "stationName": "Canal St",
+          "stationCodeN": "A34N",
+          "stationCodeS": "A34S"
+        },
+        {
+          "stationName": "Chambers St",
+          "stationCodeN": "A36N",
+          "stationCodeS": "A36S"
+        },
+        {
+          "stationName": "Fulton St",
+          "stationCodeN": "A38N",
+          "stationCodeS": "A38S"
+        },
+        {
+          "stationName": "High St",
+          "stationCodeN": "A40N",
+          "stationCodeS": "A40S"
+        },
+        {
+          "stationName": "Jay St-Metrotech",
+          "stationCodeN": "A41N",
+          "stationCodeS": "A41S"
+        },
+        {
+          "stationName": "Hoyt-Schermerhorn Sts",
+          "stationCodeN": "A42N",
+          "stationCodeS": "A42S"
+        },
+        {
+          "stationName": "Nostrand Av",
+          "stationCodeN": "A46N",
+          "stationCodeS": "A46S"
+        },
+        {
+          "stationName": "Utica Av",
+          "stationCodeN": "A48N",
+          "stationCodeS": "A48S"
+        },
+        {
+          "stationName": "Broadway Junction",
+          "stationCodeN": "A51N",
+          "stationCodeS": "A51S"
+        },
+        {
+          "stationName": "Euclid Av",
+          "stationCodeN": "A55N",
+          "stationCodeS": "A55S"
+        },
+        {
+          "stationName": "Grant Av",
+          "stationCodeN": "A57N",
+          "stationCodeS": "A57S"
+        },
+        {
+          "stationName": "80 St",
+          "stationCodeN": "A59N",
+          "stationCodeS": "A59S"
+        },
+        {
+          "stationName": "88 St",
+          "stationCodeN": "A60N",
+          "stationCodeS": "A60S"
+        },
+        {
+          "stationName": "Rockaway Blvd",
+          "stationCodeN": "A61N",
+          "stationCodeS": "A61S"
+        },
+        {
+          "stationName": "104 St",
+          "stationCodeN": "A63N",
+          "stationCodeS": "A63S"
+        },
+        {
+          "stationName": "111 St",
+          "stationCodeN": "A64N",
+          "stationCodeS": "A64S"
+        },
+        {
+          "stationName": "Ozone Park-Lefferts Blvd",
+          "stationCodeN": "A65N",
+          "stationCodeS": "A65S"
+        },
+        {
+          "stationName": "Aqueduct Racetrack",
+          "stationCodeN": "H01N",
+          "stationCodeS": "H01S"
+        },
+        {
+          "stationName": "Aqueduct-N Conduit Av",
+          "stationCodeN": "H02N",
+          "stationCodeS": "H02S"
+        },
+        {
+          "stationName": "Howard Beach-JFK Airport",
+          "stationCodeN": "H03N",
+          "stationCodeS": "H03S"
+        },
+        {
+          "stationName": "Broad Channel",
+          "stationCodeN": "H04N",
+          "stationCodeS": "H04S"
+        },
+        {
+          "stationName": "Beach 67 St",
+          "stationCodeN": "H06N",
+          "stationCodeS": "H06S"
+        },
+        {
+          "stationName": "Beach 60 St",
+          "stationCodeN": "H07N",
+          "stationCodeS": "H07S"
+        },
+        {
+          "stationName": "Beach 44 St",
+          "stationCodeN": "H08N",
+          "stationCodeS": "H08S"
+        },
+        {
+          "stationName": "Beach 36 St",
+          "stationCodeN": "H09N",
+          "stationCodeS": "H09S"
+        },
+        {
+          "stationName": "Beach 25 St",
+          "stationCodeN": "H10N",
+          "stationCodeS": "H10S"
+        },
+        {
+          "stationName": "Far Rockaway-Mott Av",
+          "stationCodeN": "H11N",
+          "stationCodeS": "H11S"
+        },
+        {
+          "stationName": "Beach 90 St",
+          "stationCodeN": "H12N",
+          "stationCodeS": "H12S"
+        },
+        {
+          "stationName": "Beach 98 St",
+          "stationCodeN": "H13N",
+          "stationCodeS": "H13S"
+        },
+        {
+          "stationName": "Beach 105 St",
+          "stationCodeN": "H14N",
+          "stationCodeS": "H14S"
+        },
+        {
+          "stationName": "Rockaway Park-Beach 116 St",
+          "stationCodeN": "H15N",
+          "stationCodeS": "H15S"
+        }
+      ],
       "color": "0039A6"
     },
     {
