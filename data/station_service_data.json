@@ -961,26 +961,6 @@
           "stationName": "Far Rockaway-Mott Av",
           "stationCodeN": "H11N",
           "stationCodeS": "H11S"
-        },
-        {
-          "stationName": "Beach 90 St",
-          "stationCodeN": "H12N",
-          "stationCodeS": "H12S"
-        },
-        {
-          "stationName": "Beach 98 St",
-          "stationCodeN": "H13N",
-          "stationCodeS": "H13S"
-        },
-        {
-          "stationName": "Beach 105 St",
-          "stationCodeN": "H14N",
-          "stationCodeS": "H14S"
-        },
-        {
-          "stationName": "Rockaway Park-Beach 116 St",
-          "stationCodeN": "H15N",
-          "stationCodeS": "H15S"
         }
       ],
       "color": "0039A6"

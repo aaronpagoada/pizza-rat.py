@@ -62,6 +62,9 @@ async def time(ctx, *args):
   next_arrivals_S = []
   terminal_S = ""
   color = ""
+
+  # used to designate between the queens branches of the A
+  next_A_arrivals_S = []
   
   user_line = args[0]
   user_station = ' '.join(args[1:])
@@ -82,7 +85,7 @@ async def time(ctx, *args):
           station_code_N = station["stationCodeN"]
           station_code_S = station["stationCodeS"]
           break
-
+ 
   headers = {'x-api-key': f'{KEY}'}
 
   feed = gtfs_realtime_pb2.FeedMessage()
@@ -99,6 +102,11 @@ async def time(ctx, *args):
                 localtime(stop.arrival.time)
               )
           elif stop.stop_id == station_code_S:
+            if user_line == "A": # branches only matter as ending terminals
+              if trip.trip_update.stop_time_update[-1].stop_id[0] == "A":
+                next_A_arrivals_S.append("Lefferts")
+              else:
+                next_A_arrivals_S.append("Rockaway")
             if len(next_arrivals_S) < 3:
               next_arrivals_S.append(
                 localtime(stop.arrival.time)
@@ -111,14 +119,24 @@ async def time(ctx, *args):
             next_arrivals_S[i] = strftime("%I:%M:%S %p", next_arrivals_S[i])
           break
 
-  timeEmbed = discord.Embed(title = f'{station["stationName"]} ({user_line}) Arrival Times', color = int(color, base=16))
-  timeEmbed.add_field(name=f'To {terminal_N}', value=f'[1] {next_arrivals_N[0]}', inline=True)
-  timeEmbed.add_field(name='\u200b', value=f'[2] {next_arrivals_N[1]}', inline=True)
-  timeEmbed.add_field(name='\u200b', value=f'[3] {next_arrivals_N[2]}', inline=True)
-  timeEmbed.add_field(name=f'To {terminal_S}', value=f'[1] {next_arrivals_S[0]}', inline=True)
-  timeEmbed.add_field(name='\u200b', value=f'[2] {next_arrivals_S[1]}', inline=True)
-  timeEmbed.add_field(name='\u200b', value=f'[3] {next_arrivals_S[2]}', inline=True)
-  timeEmbed.timestamp = datetime.now()
+  if user_line == "A": # not sure if conditional embedding is a thing, but this will do.
+    timeEmbed = discord.Embed(title = f'{station["stationName"]} ({user_line}) Arrival Times', color = int(color, base=16))
+    timeEmbed.add_field(name=f'To {terminal_N}', value=f'[1] {next_arrivals_N[0]}', inline=True)
+    timeEmbed.add_field(name='\u200b', value=f'[2] {next_arrivals_N[1]}', inline=True)
+    timeEmbed.add_field(name='\u200b', value=f'[3] {next_arrivals_N[2]}', inline=True)
+    timeEmbed.add_field(name=f'To Queens', value=f'[1] {next_arrivals_S[0]} ({next_A_arrivals_S[0]})', inline=True)
+    timeEmbed.add_field(name='\u200b', value=f'[2] {next_arrivals_S[1]} ({next_A_arrivals_S[1]})', inline=True)
+    timeEmbed.add_field(name='\u200b', value=f'[3] {next_arrivals_S[2]} ({next_A_arrivals_S[2]})', inline=True)
+    timeEmbed.timestamp = datetime.now()
+  else:
+    timeEmbed = discord.Embed(title = f'{station["stationName"]} ({user_line}) Arrival Times', color = int(color, base=16))
+    timeEmbed.add_field(name=f'To {terminal_N}', value=f'[1] {next_arrivals_N[0]}', inline=True)
+    timeEmbed.add_field(name='\u200b', value=f'[2] {next_arrivals_N[1]}', inline=True)
+    timeEmbed.add_field(name='\u200b', value=f'[3] {next_arrivals_N[2]}', inline=True)
+    timeEmbed.add_field(name=f'To {terminal_S}', value=f'[1] {next_arrivals_S[0]}', inline=True)
+    timeEmbed.add_field(name='\u200b', value=f'[2] {next_arrivals_S[1]}', inline=True)
+    timeEmbed.add_field(name='\u200b', value=f'[3] {next_arrivals_S[2]}', inline=True)
+    timeEmbed.timestamp = datetime.now()
 
   await ctx.channel.send(embed=timeEmbed)
 
