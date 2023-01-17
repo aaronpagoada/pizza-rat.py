@@ -405,12 +405,12 @@
           "stationCodeS": "238S"
         },
         {
-          "stationName": "Franklin Av",
+          "stationName": "Franklin Av-Medgar Evers College",
           "stationCodeN": "239N",
           "stationCodeS": "239S"
         },
         {
-          "stationName": "President St",
+          "stationName": "President St-Medgar Evers College",
           "stationCodeN": "241N",
           "stationCodeS": "241S"
         },
@@ -776,7 +776,188 @@
     },
     {
       "ident": "5",
-      "stationData": [],
+      "stationData": [
+        {
+          "stationName": "Eastchester-Dyre Av",
+          "stationCodeN": "501N",
+          "stationCodeS": "501S"
+        },
+        {
+          "stationName": "Baychester Av",
+          "stationCodeN": "502N",
+          "stationCodeS": "502S"
+        },
+        {
+          "stationName": "Gun Hill Rd",
+          "stationCodeN": "503N",
+          "stationCodeS": "503S"
+        },
+        {
+          "stationName": "Pelham Pkwy",
+          "stationCodeN": "504N",
+          "stationCodeS": "504S"
+        },
+        {
+          "stationName": "Morris Park",
+          "stationCodeN": "505N",
+          "stationCodeS": "505S"
+        },
+        {
+          "stationName": "E 180 St",
+          "stationCodeN": "213N",
+          "stationCodeS": "213S"
+        },
+        {
+          "stationName": "West Farms Sq-E Tremont Av",
+          "stationCodeN": "214N",
+          "stationCodeS": "214S"
+        },
+        {
+          "stationName": "174 St",
+          "stationCodeN": "215N",
+          "stationCodeS": "215S"
+        },
+        {
+          "stationName": "Freeman St",
+          "stationCodeN": "216N",
+          "stationCodeS": "216S"
+        },
+        {
+          "stationName": "Simpson St",
+          "stationCodeN": "217N",
+          "stationCodeS": "217S"
+        },
+        {
+          "stationName": "Intervale Av",
+          "stationCodeN": "218N",
+          "stationCodeS": "218S"
+        },
+        {
+          "stationName": "Prospect Av",
+          "stationCodeN": "219N",
+          "stationCodeS": "219S"
+        },
+        {
+          "stationName": "Jackson Av",
+          "stationCodeN": "220N",
+          "stationCodeS": "220S"
+        },
+        {
+          "stationName": "3 Av-149 St",
+          "stationCodeN": "221N",
+          "stationCodeS": "221S"
+        },
+        {
+          "stationName": "149 St-Grand Concourse",
+          "stationCodeN": "222N",
+          "stationCodeS": "222S"
+        },
+        {
+          "stationName": "135 St",
+          "stationCodeN": "224N",
+          "stationCodeS": "224S"
+        },
+        {
+          "stationName": "125 St",
+          "stationCodeN": "225N",
+          "stationCodeS": "225S"
+        },
+        {
+          "stationName": "86 St",
+          "stationCodeN": "626N",
+          "stationCodeS": "626S"
+        },
+        {
+          "stationName": "59 St",
+          "stationCodeN": "629N",
+          "stationCodeS": "629S"
+        },
+        {
+          "stationName": "Grand Central-42 St",
+          "stationCodeN": "631N",
+          "stationCodeS": "631S"
+        },
+        {
+          "stationName": "14 St-Union Sq",
+          "stationCodeN": "635N",
+          "stationCodeS": "635S"
+        },
+        {
+          "stationName": "Brooklyn Bridge-City Hall",
+          "stationCodeN": "640N",
+          "stationCodeS": "640S"
+        },
+        {
+          "stationName": "Fulton St",
+          "stationCodeN": "418N",
+          "stationCodeS": "418S"
+        },
+        {
+          "stationName": "Wall St",
+          "stationCodeN": "419N",
+          "stationCodeS": "419S"
+        },
+        {
+          "stationName": "Bowling Green",
+          "stationCodeN": "420N",
+          "stationCodeS": "420S"
+        },
+        {
+          "stationName": "Borough Hall",
+          "stationCodeN": "232N",
+          "stationCodeS": "232S"
+        },
+        {
+          "stationName": "Nevins St",
+          "stationCodeN": "234N",
+          "stationCodeS": "234S"
+        },
+        {
+          "stationName": "Atlantic Av-Barclays Ctr",
+          "stationCodeN": "235N",
+          "stationCodeS": "235S"
+        },
+        {
+          "stationName": "Franklin Av-Medgar Evers College",
+          "stationCodeN": "239N",
+          "stationCodeS": "239S"
+        },
+        {
+          "stationName": "President St-Medgar Evers College",
+          "stationCodeN": "241N",
+          "stationCodeS": "241S"
+        },
+        {
+          "stationName": "Sterling St",
+          "stationCodeN": "242N",
+          "stationCodeS": "242S"
+        },
+        {
+          "stationName": "Winthrop St",
+          "stationCodeN": "243N",
+          "stationCodeS": "243S"
+        },
+        {
+          "stationName": "Church Av",
+          "stationCodeN": "244N",
+          "stationCodeS": "244S"
+        },
+        {
+          "stationName": "Beverly Rd",
+          "stationCodeN": "245N",
+          "stationCodeS": "245S"
+        },
+        {
+          "stationName": "Newkirk Av",
+          "stationCodeN": "246N",
+          "stationCodeS": "246S"
+        },
+        {
+          "stationName": "Flatbush Av-Brooklyn College",
+          "stationCodeN": "247N",
+          "stationCodeS": "247S"
+        }
+      ],
       "color": "00933C"
     },
     {
