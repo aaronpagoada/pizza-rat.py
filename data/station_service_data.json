@@ -630,7 +630,148 @@
     },
     {
       "ident": "4",
-      "stationData": [],
+      "stationData": [
+        {
+          "stationName": "Woodlawn",
+          "stationCodeN": "401N",
+          "stationCodeS": "401S"
+        },
+        {
+          "stationName": "Mosholu Pkwy",
+          "stationCodeN": "402N",
+          "stationCodeS": "402S"
+        },
+        {
+          "stationName": "Bedford Park Blvd-Lehman College",
+          "stationCodeN": "405N",
+          "stationCodeS": "405S"
+        },
+        {
+          "stationName": "Kingsbridge Rd",
+          "stationCodeN": "406N",
+          "stationCodeS": "406S"
+        },
+        {
+          "stationName": "Fordham Rd",
+          "stationCodeN": "407N",
+          "stationCodeS": "407S"
+        },
+        {
+          "stationName": "183 St",
+          "stationCodeN": "408N",
+          "stationCodeS": "408S"
+        },
+        {
+          "stationName": "Burnside Av",
+          "stationCodeN": "409N",
+          "stationCodeS": "409S"
+        },
+        {
+          "stationName": "176 St",
+          "stationCodeN": "410N",
+          "stationCodeS": "410S"
+        },
+        {
+          "stationName": "Mt Eden Av",
+          "stationCodeN": "411N",
+          "stationCodeS": "411S"
+        },
+        {
+          "stationName": "170 St",
+          "stationCodeN": "412N",
+          "stationCodeS": "412S"
+        },
+        {
+          "stationName": "167 St",
+          "stationCodeN": "413N",
+          "stationCodeS": "413S"
+        },
+        {
+          "stationName": "161 St-Yankee Stadium",
+          "stationCodeN": "414N",
+          "stationCodeS": "414S"
+        },
+        {
+          "stationName": "149 St-Grand Concourse",
+          "stationCodeN": "415N",
+          "stationCodeS": "415S"
+        },
+        {
+          "stationName": "138 St-Grand Concourse",
+          "stationCodeN": "416N",
+          "stationCodeS": "416S"
+        },
+        {
+          "stationName": "125 St",
+          "stationCodeN": "621N",
+          "stationCodeS": "621S"
+        },
+        {
+          "stationName": "86 St",
+          "stationCodeN": "626N",
+          "stationCodeS": "626S"
+        },
+        {
+          "stationName": "59 St",
+          "stationCodeN": "629N",
+          "stationCodeS": "629S"
+        },
+        {
+          "stationName": "Grand Central-42 St",
+          "stationCodeN": "631N",
+          "stationCodeS": "631S"
+        },
+        {
+          "stationName": "14 St-Union Sq",
+          "stationCodeN": "635N",
+          "stationCodeS": "635S"
+        },
+        {
+          "stationName": "Brooklyn Bridge-City Hall",
+          "stationCodeN": "640N",
+          "stationCodeS": "640S"
+        },
+        {
+          "stationName": "Fulton St",
+          "stationCodeN": "418N",
+          "stationCodeS": "418S"
+        },
+        {
+          "stationName": "Wall St",
+          "stationCodeN": "419N",
+          "stationCodeS": "419S"
+        },
+        {
+          "stationName": "Bowling Green",
+          "stationCodeN": "420N",
+          "stationCodeS": "420S"
+        },
+        {
+          "stationName": "Borough Hall",
+          "stationCodeN": "423N",
+          "stationCodeS": "423S"
+        },
+        {
+          "stationName": "Nevins St",
+          "stationCodeN": "234N",
+          "stationCodeS": "234S"
+        },
+        {
+          "stationName": "Atlantic Av-Barclays Ctr",
+          "stationCodeN": "235N",
+          "stationCodeS": "235S"
+        },
+        {
+          "stationName": "Franklin Av-Medgar Evers College",
+          "stationCodeN": "239N",
+          "stationCodeS": "239S"
+        },
+        {
+          "stationName": "Crown Hts-Utica Av",
+          "stationCodeN": "250N",
+          "stationCodeS": "250S"
+        }
+      ],
       "color": "00933C"
     },
     {
@@ -1473,7 +1614,7 @@
           "stationCodeS": "L02S"
         },
         {
-          "stationName": "Union Sq-14 St",
+          "stationName": "14 St-Union Sq",
           "stationCodeN": "L03N",
           "stationCodeS": "L03S"
         },
