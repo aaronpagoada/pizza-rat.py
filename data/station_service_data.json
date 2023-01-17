@@ -962,7 +962,198 @@
     },
     {
       "ident": "6",
-      "stationData": [],
+      "stationData": [
+        {
+          "stationName": "Pelham Bay Pkwy",
+          "stationCodeN": "601N",
+          "stationCodeS": "601S"
+        },
+        {
+          "stationName": "Buhre Av",
+          "stationCodeN": "602N",
+          "stationCodeS": "602S"
+        },
+        {
+          "stationName": "Middletown Rd",
+          "stationCodeN": "603N",
+          "stationCodeS": "603S"
+        },
+        {
+          "stationName": "Westchester Sq-E Tremont Av",
+          "stationCodeN": "604N",
+          "stationCodeS": "604S"
+        },
+        {
+          "stationName": "Zerega Av",
+          "stationCodeN": "606N",
+          "stationCodeS": "606S"
+        },
+        {
+          "stationName": "Castle Hill Av",
+          "stationCodeN": "607N",
+          "stationCodeS": "607S"
+        },
+        {
+          "stationName": "Parkchester",
+          "stationCodeN": "608N",
+          "stationCodeS": "608S"
+        },
+        {
+          "stationName": "St Lawrence Av",
+          "stationCodeN": "609N",
+          "stationCodeS": "609S"
+        },
+        {
+          "stationName": "Morrison Av-Soundview",
+          "stationCodeN": "610N",
+          "stationCodeS": "610S"
+        },
+        {
+          "stationName": "Elder Av",
+          "stationCodeN": "611N",
+          "stationCodeS": "611S"
+        },
+        {
+          "stationName": "Whitlock Av",
+          "stationCodeN": "612N",
+          "stationCodeS": "612S"
+        },
+        {
+          "stationName": "Hunts Point Av",
+          "stationCodeN": "613N",
+          "stationCodeS": "613S"
+        },
+        {
+          "stationName": "Longwood Av",
+          "stationCodeN": "614N",
+          "stationCodeS": "614S"
+        },
+        {
+          "stationName": "E 149 St",
+          "stationCodeN": "615N",
+          "stationCodeS": "615S"
+        },
+        {
+          "stationName": "E 143 St-St Mary's St",
+          "stationCodeN": "616N",
+          "stationCodeS": "616S"
+        },
+        {
+          "stationName": "Cypress Av",
+          "stationCodeN": "617N",
+          "stationCodeS": "617S"
+        },
+        {
+          "stationName": "Brook Av",
+          "stationCodeN": "618N",
+          "stationCodeS": "618S"
+        },
+        {
+          "stationName": "3 Av-138 St",
+          "stationCodeN": "619N",
+          "stationCodeS": "619S"
+        },
+        {
+          "stationName": "125 St",
+          "stationCodeN": "621N",
+          "stationCodeS": "621S"
+        },
+        {
+          "stationName": "116 St",
+          "stationCodeN": "622N",
+          "stationCodeS": "622S"
+        },
+        {
+          "stationName": "110 St",
+          "stationCodeN": "623N",
+          "stationCodeS": "623S"
+        },
+        {
+          "stationName": "103 St",
+          "stationCodeN": "624N",
+          "stationCodeS": "624S"
+        },
+        {
+          "stationName": "96 St",
+          "stationCodeN": "625N",
+          "stationCodeS": "625S"
+        },
+        {
+          "stationName": "86 St",
+          "stationCodeN": "626N",
+          "stationCodeS": "626S"
+        },
+        {
+          "stationName": "77 St",
+          "stationCodeN": "627N",
+          "stationCodeS": "627S"
+        },
+        {
+          "stationName": "68 St-Hunter College",
+          "stationCodeN": "628N",
+          "stationCodeS": "628S"
+        },
+        {
+          "stationName": "59 St",
+          "stationCodeN": "629N",
+          "stationCodeS": "629S"
+        },
+        {
+          "stationName": "51 St",
+          "stationCodeN": "630N",
+          "stationCodeS": "630S"
+        },
+        {
+          "stationName": "Grand Central-42 St",
+          "stationCodeN": "631N",
+          "stationCodeS": "631S"
+        },
+        {
+          "stationName": "33 St",
+          "stationCodeN": "632N",
+          "stationCodeS": "632S"
+        },
+        {
+          "stationName": "28 St",
+          "stationCodeN": "633N",
+          "stationCodeS": "633S"
+        },
+        {
+          "stationName": "23 St",
+          "stationCodeN": "634N",
+          "stationCodeS": "634S"
+        },
+        {
+          "stationName": "14 St-Union Sq",
+          "stationCodeN": "635N",
+          "stationCodeS": "635S"
+        },
+        {
+          "stationName": "Astor Pl",
+          "stationCodeN": "636N",
+          "stationCodeS": "636S"
+        },
+        {
+          "stationName": "Bleeker St",
+          "stationCodeN": "637N",
+          "stationCodeS": "637S"
+        },
+        {
+          "stationName": "Spring St",
+          "stationCodeN": "638N",
+          "stationCodeS": "638S"
+        },
+        {
+          "stationName": "Canal St",
+          "stationCodeN": "639N",
+          "stationCodeS": "639S"
+        },
+        {
+          "stationName": "Brooklyn Bridge-City Hall",
+          "stationCodeN": "640N",
+          "stationCodeS": "640S"
+        }
+      ],
       "color": "00933C"
     },
     {
